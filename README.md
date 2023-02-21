@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mulowwits
+- 👋 Hi, I’m Nhlamulo Khosa
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any interesting open source project
